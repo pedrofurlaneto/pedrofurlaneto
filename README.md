@@ -22,4 +22,4 @@
   <a href="https://www.linkedin.com/in/pedro-furlaneto-56ba311b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/1canas/1canas/blob/main/.github/workflows/snake.yml)
+![Snake animation](https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg)
