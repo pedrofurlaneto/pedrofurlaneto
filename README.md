@@ -12,7 +12,7 @@
 ~$ Location: Canas-SP && Itajubá-MG;
 ~$ ;)
 ``` 
-<br>
+
 <div align="center">
 	<h3><b>✨ My tecnologies ✨</b></h3>
 	<img align="center" alt="canas_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
