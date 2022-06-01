@@ -25,9 +25,8 @@
 <div align="center">
 	<img height="165em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 	<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark">
+	![Snake animation](https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-![Snake animation](https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg)
 
 <div aling="inline-block">
 <a href="https://instagram.com/_canas1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=151515&logoColor=79D37E" target="_blank"></a>
