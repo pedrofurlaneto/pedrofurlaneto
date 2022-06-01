@@ -26,10 +26,10 @@
 
 <br>
 <div align="center">
-	<h3><b> Stats ⛏</b></h3>
+	<h3><b> Github stats ⛏</b></h3>
 	<a href="https://github.com/1canas">
-		<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark">
-		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark&langs_count=5">
+		<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=onedark">
+		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=onedark&langs_count=5">
 		<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
 	</a>
 </div>
