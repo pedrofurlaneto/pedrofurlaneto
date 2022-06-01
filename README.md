@@ -10,8 +10,8 @@
 ~$ ;)
 ``` 
 
-### My tecnologies
 <div align="center">
+<h3>My tecnologies</h3>
 	<img align="center" alt="canas_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	 <img align="center" alt="canas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	 <img align="center" alt="canas_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,12 +21,12 @@
 	 <img align="center" alt="canas_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-### Stats :)
 <div align="center">
+<h3>Stats :)</h3>
 <a href="https://github.com/1canas">
 	<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark">
 	<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark&langs_count=5">
-	<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
+	<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg"width="100%">
 </a>
 </div>
 
