@@ -25,7 +25,7 @@
 <div align="center">
 <a href="https://github.com/1canas">
 	<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark">
-	<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark&langs_count=5"><br>
+	<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark&langs_count=5">
 	<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
 </a>
 </div>
