@@ -1,3 +1,4 @@
+
 # Hello There ⛩✨ 
 >*Never stray from the  Way*
 
@@ -26,7 +27,7 @@
 
 <br>
 <div align="center">
-	<h3><b> Stats :) ⛏</b></h3>
+	<h3><b> Stats ⛏</b></h3>
 	<a href="https://github.com/1canas">
 		<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark">
 		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark&langs_count=5">
@@ -41,3 +42,6 @@
   	<a href="https://discord.com/channels/canas#0386" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   	<a href="mailto:ps.furlaneto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
 </div>
+
+
+:)
