@@ -25,7 +25,7 @@
 <div align="center">
 	<img height="165em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
 	<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark">
-	![Snake animation](https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg)
+	<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg">
 </div>
 
 <div aling="inline-block">
