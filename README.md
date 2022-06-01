@@ -1,4 +1,5 @@
 
+
 # Hello There ⛩✨ 
  ```bash
  ~$ ./personal_info
@@ -11,7 +12,7 @@
 ``` 
 
 <div align="center">
-	<h3><b>My tecnologies</b></h3>
+	<h3><b>✨ My tecnologies ✨</b></h3>
 	<img align="center" alt="canas_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 	 <img align="center" alt="canas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	 <img align="center" alt="canas_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -23,7 +24,7 @@
 
 <br>
 <div align="center">
-	<h3><b>Stats :)</b></h3>
+	<h3><b> Stats :) ⛏</b></h3>
 	<a href="https://github.com/1canas">
 		<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=dark">
 		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=dark&langs_count=5">
@@ -32,6 +33,7 @@
 </div>
 
 <br>
+<h3>📡 Social network 📡</h3>
 <div aling="inline-block">
 	<a href="https://instagram.com/_canas1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&color=151515&logoColor=79D37E" target="_blank"></a>
   	<a href="https://discord.com/channels/canas#0386" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&color=151515&logoColor=79D37E" target="_blank"></a> 
