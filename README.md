@@ -6,10 +6,10 @@
  ```bash
  ~$ ./personal_info
 
-~$ Name: Pedro Furlaneto;
-~$ University: UNIFEI;
-~$ Developer: Front-end && Back-end;
-~$ Location: Canas-SP && Itajubá-MG;
+Name: Pedro Furlaneto;
+University: UNIFEI;
+Developer: Front-end && Back-end;
+Location: Canas-SP && Itajubá-MG;
 ~$ ;)
 ``` 
 
