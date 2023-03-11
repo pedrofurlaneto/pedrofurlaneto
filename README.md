@@ -12,6 +12,26 @@ Developer: Front-end && Back-end;
 Location: Canas-SP && Itajubá-MG;
 ~$ ;)
 ``` 
+<div align="center">
+	<h3><b>My tecnologies 🥋</b></h3>
+ 	<div align="center">
+	    <img height="40" alt="canas_HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+	    <img height="40" alt="canas_CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+	    <img height="40" alt="canas_JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
+	    <img height="40" alt="canas_TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+	    <img height="40" alt="canas_ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+	    <img height="40" alt="canas_NodeJs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+	    <img height="40" alt="canas_Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  	</div>
+</div>
+
+<div align="center">
+<h3><b> Github stats ⛏</b></h3>
+  <div class="git-status">
+      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=onedark"/>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=onedark&langs_count=5"/>
+  </div>
+</div>
 
 <img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
 
