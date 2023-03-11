@@ -13,26 +13,11 @@ Location: Canas-SP && Itajubá-MG;
 ~$ ;)
 ``` 
 
-<div align="center">
-	<h3><b>My tecnologies 🥋</b></h3>
-	<img align="center" alt="canas_HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-	 <img align="center" alt="canas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-	 <img align="center" alt="canas_JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	 <img align="center" alt="canas_TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-	 <img align="center" alt="canas_ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-	 <img align="center" alt="canas_NodeJs" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-	 <img align="center" alt="canas_Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div style="width: 100%;">
+  <img src=".github/info-container.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
-<br>
-<div align="center">
-	<h3><b> Github stats ⛏</b></h3>
-	<a href="https://github.com/1canas">
-		<img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=onedark">
-		<img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=onedark&langs_count=5">
-		<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
-	</a>
-</div>
+<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <br>
 <h3>Social network 📡</h3>
