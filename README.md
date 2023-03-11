@@ -13,10 +13,6 @@ Location: Canas-SP && Itajubá-MG;
 ~$ ;)
 ``` 
 
-<div style="width: 100%;">
-  <img src=".github/info-container.svg" style="width: 100%;" alt="Click to see the source">
-</div>
-
 <img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <br>
