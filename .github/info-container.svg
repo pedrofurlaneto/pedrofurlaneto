@@ -1,0 +1,57 @@
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+        }
+
+        .sub-container {
+          display: flex;
+          width: 50%;
+        }
+
+        .technologies {
+          display: flex;
+          width: 100%;
+          margin: 0 0 10% 0;
+          height: 30px;
+          width: 40px;
+        }
+
+        .git-status {
+          display: flex;
+        }
+
+        .dev-card {
+          
+        }
+      </style>
+
+      <div>
+        <div class="sub-container">
+          <h3><b>My tecnologies 🥋</b></h3>
+          <div class="technologies">
+            <img alt="canas_HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+            <img alt="canas_CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+            <img alt="canas_JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+            <img alt="canas_TS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+            <img alt="canas_ReactJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+            <img alt="canas_NodeJs"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+            <img alt="canas_Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+          </div>
+
+          <h3><b> Github stats ⛏</b></h3>
+          <div class="git-status">
+              <img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=onedark">
+              <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=onedark&langs_count=5">
+          </div>
+        </div>
+
+        <a class="sub-container dev-card" href="https://app.daily.dev/canas">
+          <img src="https://api.daily.dev/devcards/f351fe0778a44111b224b0b69b01f9e3.png?r=54l" width="400" alt="Pedro Furlaneto's Dev Card"/>
+        </a>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
