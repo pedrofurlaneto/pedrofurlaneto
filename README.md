@@ -28,12 +28,12 @@ Location: Canas-SP && Itajubá-MG;
 <div align="center">
 <h3><b> Github stats ⛏</b></h3>
   <div class="git-status">
-      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=1canas&show_icons=true&theme=onedark"/>
-      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1canas&theme=onedark&langs_count=5"/>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api?username=pedrofurlaneto&show_icons=true&theme=onedark"/>
+      <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofurlaneto&theme=onedark&langs_count=5"/>
   </div>
 </div>
 
-<img src="https://github.com/1canas/1canas/blob/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://github.com/pedrofurlaneto/pedrofurlaneto/blob/output/github-contribution-grid-snake.svg" width="100%">
 
 <br>
 <h3>Social network 📡</h3>
