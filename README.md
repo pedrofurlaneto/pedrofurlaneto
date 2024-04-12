@@ -33,8 +33,6 @@ Location: Canas-SP && Itajubá-MG;
   </div>
 </div>
 
-<img src="https://github.com/pedrofurlaneto/pedrofurlaneto/blob/output/github-contribution-grid-snake.svg" width="100%">
-
 <br>
 <h3>Social network 📡</h3>
 <div aling="inline-block">
