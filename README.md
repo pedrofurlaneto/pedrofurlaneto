@@ -4,14 +4,15 @@
 <br>
 
  ```bash
- ~$ ./personal_info
+ ~$ cat personal-info.txt
 
 Name: Pedro Furlaneto;
 University: UNIFEI;
 Developer: Front-end && Back-end;
 Location: Canas-SP && Itajubá-MG;
-~$ ;)
-``` 
+~$ :)
+```
+
 <div align="center">
 	<h3><b>My tecnologies 🥋</b></h3>
  	<div align="center">
